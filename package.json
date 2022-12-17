@@ -1,0 +1,27 @@
+{
+  "name": "restapi-crud-with-nodejs",
+  "version": "1.0.0",
+  "description": "This is just a learning project ...to learn REST API creation with NOde.js Express and MongoDb",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atul9180/RESTAPI-CRUD-with-NOdeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atul9180/RESTAPI-CRUD-with-NOdeJS/issues"
+  },
+  "homepage": "https://github.com/Atul9180/RESTAPI-CRUD-with-NOdeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
